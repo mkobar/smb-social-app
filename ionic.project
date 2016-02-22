@@ -1,0 +1,21 @@
+{
+  "name": "snbsocial",
+  "app_id": "ba453561",
+  "email": "mike@exlorev.com",
+  "package_name": "",
+  "gulpStartupTasks": [
+    "sass",
+    "minify",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ],
+  "proxies": [
+    {
+      "path": "/instagram/api",
+      "proxyUrl": "https://api.instagram.com/v1"
+    }
+  ]
+}
