@@ -14,15 +14,15 @@ The idea is to make micro-social networks for building-sized co-located communit
 
 ### How It Works
 So this service uses geolocation and a geo-fence to determine the user's location and the building they are linked to.
-We tried to use the [Estimote](http://estimote.com/) and [Blue Byte](http://www.bluebite.com/) beacons to use the Eddystone URL protocol, which would allow use of the web app or navigation to the buildings web site automatically when the user was within range on a single beacon.  We could not get our hardware to work for this over the weekend, but did find some useful software for this (see resources).
+We tried to use the [Estimote](http://estimote.com/) and [Blue Byte](http://www.bluebite.com/) beacons to use the Eddystone URL protocol, which would allow use of the web app or navigation to the buildings web site automatically when the user was within range on a single beacon.  We could not get our hardware to work for this over the weekend, but did find some useful software for this (see **Resources** below).
 
 ### How It Was Built
-This application was built with the [Ionic Framework](http://ionicframework.com/) (Angular.js/JavaScript/CSS/HTML5) and uses the Google [FireBase](https://www.firebase.com/) service for authentication and cloud data storage.
+This mobile application was built with the sweet [Ionic Framework](http://ionicframework.com/) (Angular.js/JavaScript/CSS/HTML5) and uses the Google [FireBase](https://www.firebase.com/) service for authentication and cloud data storage.
 
 ### Live Demos
-Apple *iPhone* and any *Android* smartphones can run the app from the _free_ **Ionic View app** (available on "the App stores"), using the preview code: **ba453561**
+Apple *iPhone* and any *Android* smartphones (or tablets) can run the mobile SNB app from the _free_ **Ionic View app** (available on "the App stores"), using the preview code: **ba453561**
 
-Live web app version can be found here:  http://capricious-stream.surge.sh
+Live web app version of SNB can be found here:  http://capricious-stream.surge.sh
 
 The GitHub repository for the web app is here: https://github.com/mkobar/snb-social-web
 
