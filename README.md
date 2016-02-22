@@ -2,22 +2,25 @@
 
 ##Social Networks for Buildings (SNB) Mobile and Web App
 ===
-[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/adrianlee44/lorax/blob/master/LICENSE-MIT)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/mkobar/snb-social-app/blob/master/LICENSE)
+![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)
+![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Web-orange.svg)
 
-for The Stamford Hackathon, Stamford CT 20 Feb 2016
+Entry for The Stamford Hackathon, Stamford CT 20 Feb 2016
 
 ### The Idea
 The idea is to make micro-social networks for building-sized co-located communities, and include the building as both a persona and participant.  Any posts made in the building are automatically aggrated to the building's account and then automatically routed to the correct location or individual in the building (e.g. facilities management, building event coordinators, etc.) and some (most) are also available to all the network members (while in the building).
 
 ### How It Works
 So this service uses geolocation and a geo-fence to determine the user's location and the building they are linked to.
-We tried to use the [estimote](http://estimote.com/) and [Blue Byte](http://www.bluebite.com/) beacons to use the Eddystone URL protocol, which would allow use of the web app or navigation to the buildings web site automatically when the user was within range on a single beacon.  We could not get our hardware to work for this over the weekend, but did find some useful software for this (see resources).
+We tried to use the [Estimote](http://estimote.com/) and [Blue Byte](http://www.bluebite.com/) beacons to use the Eddystone URL protocol, which would allow use of the web app or navigation to the buildings web site automatically when the user was within range on a single beacon.  We could not get our hardware to work for this over the weekend, but did find some useful software for this (see resources).
 
 ### How It Was Built
-This application was built with the Ionic Framework (Angular.js/JavaScript) and uses the Google FireBase service for authentication and cloud data storage.
+This application was built with the [Ionic Framework](http://ionicframework.com/) (Angular.js/JavaScript/CSS/HTML5) and uses the Google [FireBase](https://www.firebase.com/) service for authentication and cloud data storage.
 
 ### Live Demos
-Apple *iPhone* and any *Android* smartphones can run the app from the **Ionic View app**, using the preview code: **ba453561**
+Apple *iPhone* and any *Android* smartphones can run the app from the _free_ **Ionic View app** (available on "the App stores"), using the preview code: **ba453561**
 
 Live web app version can be found here:  http://capricious-stream.surge.sh
 
