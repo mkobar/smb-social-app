@@ -1,6 +1,6 @@
 # snb-social-app
 
-##Social Networks for Buildings (SNB) Ionic and Web App
+##Social Networks for Buildings (SNB) Mobile and Web App
 ===
 [![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/adrianlee44/lorax/blob/master/LICENSE-MIT)
 
@@ -19,7 +19,9 @@ This application was built with the Ionic Framework (Angular.js/JavaScript) and 
 ### Live Demos
 Apple *iPhone* and any *Android* smartphones can run the app from the **Ionic View app**, using the preview code: **ba453561**
 
-Live web app version can be found here:  [http://capricious-stream.surge.sh](http://capricious-stream.surge.sh)
+Live web app version can be found here:  http://capricious-stream.surge.sh
+
+The GitHub repository for the web app is here: https://github.com/mkobar/snb-social-web
 
 Currently the building is hard-coded to the **Stamford Innovation Center** building 
 
@@ -59,6 +61,7 @@ https://github.com/KillerCodeMonkey/iBeacon-nfc
 https://github.com/ion-book/firebaseStarter
 
 ### GeoFence
+https://github.com/mkobar/snb-social-geofence
 
 ### Ionic
 https://github.com/driftyco/front-page
