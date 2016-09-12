@@ -1,0 +1,3 @@
+app.js has live firebase keys in it
+
+app-clean.js does not.
