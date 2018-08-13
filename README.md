@@ -1,7 +1,8 @@
 # snb-social-app
 
-##Social Networks for Buildings (SNB) Mobile and Web App
+## Social Networks for Buildings (SNB) Mobile and Web App
 ===
+
 [![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/mkobar/snb-social-app/blob/master/LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
@@ -10,6 +11,7 @@
 Entry for The Stamford Hackathon, Stamford CT 20 Feb 2016
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/mkobar/snb-social-app/master/www/img/icon_starter.png">
+
 ### The Idea
 The idea is to make micro-social networks for building-sized co-located communities, and include the building as both a persona and participant.  Any posts made in the building are automatically aggregated to the building's account and then automatically routed to the correct location or individual in the building (e.g. facilities management, building event coordinators, etc.) and some (most) are also available to all the network members (while in the building).
 
@@ -72,6 +74,7 @@ https://github.com/driftyco/front-page
 
 ## License
 
-Released under the [MIT License] (http://opensource.org/licenses/MIT)
-Copyright @ 2016 [RKOSecurity] (http://www.rkosecurity.com)
+Released under the [MIT License](http://opensource.org/licenses/MIT)
+
+Copyright @ 2016 [RKOSecurity](http://www.rkosecurity.com)
 
